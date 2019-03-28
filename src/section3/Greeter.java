@@ -4,8 +4,9 @@ import javax.swing.JOptionPane;
 
 public class Greeter {
 	public static void main(String[] args) {
-		String name = JOptionPane.showInputDialog( "THIS IS MOMO, "
+		String name = JOptionPane.showInputDialog( "THIS IS CHUNGUS, "
 				+ "do u like peppa pig");
+		
 	}
 
 }
